@@ -1,6 +1,6 @@
 
 Time,Athlete,Nation,Games,Round,Date
-12.2,Francis Lane, United States (USA)    1896,Heat 1,1896-04-06
+12.2,Francis Lane, United States (USA), 1896,Heat 1,1896-04-06
 12.2,Thomas Curtis, United States (USA),1896,Heat 2,1896-04-06
 11.8,Tom Burke, United States (USA),1896,Heat 3,1896-04-06
 11.4,Arthur Duffey, United States (USA),1900,Heat 1,1900-06-14
