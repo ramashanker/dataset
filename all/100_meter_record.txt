@@ -1,0 +1,40 @@
+
+Time,Athlete,Nation,Games,Round,Date
+12.2,Francis Lane, United States (USA)    1896,Heat 1,1896-04-06
+12.2,Thomas Curtis, United States (USA),1896,Heat 2,1896-04-06
+11.8,Tom Burke, United States (USA),1896,Heat 3,1896-04-06
+11.4,Arthur Duffey, United States (USA),1900,Heat 1,1900-06-14
+11.4,Walter Tewksbury, United States (USA),1900,Heat 2,1900-06-14
+10.8 ,Frank Jarvis, United States (USA),1900,Heat 3,1900-06-14
+10.8 ,Walter Tewksbury, United States (USA),1900,Semi-final 2,1900-06-14
+10.8,James Rector, United States (USA),1908,Heat 15,1908-07-20
+10.8,Reggie Walker, South Africa (RSA),1908,Semi-final 1,1908-07-20
+10.8,James Rector, United States (USA),1908,Semi-final 3,1908-07-20
+10.8,Reggie Walker, South Africa (RSA),1908,Final,1908-07-20
+10.8,David Jacobs, Great Britain (GBR),1912,Heat 10,1912-07-06
+10.6,Donald Lippincott, United States (USA),1912,Heat 16,1912-07-06
+10.6,Harold Abrahams, Great Britain (GBR),1924,Quarter-final 4,1924-07-06
+10.6,Harold Abrahams, Great Britain (GBR),1924,Semi-final 2,1924-07-07
+10.6,Harold Abrahams, Great Britain (GBR),1924,Final,1924-07-07
+10.6,Percy Williams, Canada (CAN),1928,Quarter-final 4,1928-07-29
+10.6,Robert McAllister, United States (USA),1928,Semi-final 1,1928-07-30
+10.6,Jack London, United States (USA),1928,Semi-final 2,1928-07-30
+10.6,Arthur Jonath, Germany (GER),1932,Heat 3,1932-07-31
+10.4,Eddie Tolan, United States (USA),1932,Quarter-final 1,1932-07-31
+10.3 ,Eddie Tolan, United States (USA),1932,Final,1932-08-01
+10.3,Jesse Owens, United States (USA),1936,Heat 1,1936-08-02
+10.3,Harrison Dillard, United States (USA),1948,Final,1948-07-31
+10.3,Bobby Joe Morrow, United States (USA),1956,Quarter-final 1,1956-11-23
+10.3,Ira Murchison, United States (USA),1956,Quarter-final 2,1956-11-23
+10.3,Bobby Joe Morrow, United States (USA),1956,Semi-final 2,1956-11-24
+10.2,Armin Hary, West Germany (FRG),1960,Quarter-final 2,1960-08-31
+10.2,Armin Hary, West Germany (FRG),1960,Final,1960-08-31
+10.0 ,Bob Hayes, United States (USA),1964,Final,1964-10-15
+10.0 ,Hermes Ramírez, Cuba (CUB),1968,Quarter-final 2,1968-10-13
+10.0 ,Charlie Greene, United States (USA),1968,Quarter-final 4,1968-10-13
+10.0 ,Jim Hines, United States (USA),1968,Semi-final 1,1968-10-14
+9.9 ,Jim Hines, United States (USA),1968,Final,1968-10-14
+9.92 ,Carl Lewis, United States (USA),1988,Final,1988-09-24
+9.84,Donovan Bailey, Canada (CAN),1996,Final,1996-07-27
+9.69 ,Usain Bolt, Jamaica (JAM),2008,Final,2008-08-16
+9.63,Usain Bolt, Jamaica (JAM),2012,Final,2012-08-05
