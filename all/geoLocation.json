@@ -1,4 +1,4 @@
- [{
+{
  		"start": {
 
  			"longitude": 57.673225,
@@ -8,16 +8,4 @@
  			"longitude": 57.682954,
  			"latitude": 12.016054
  		}
- 	},
- 	{
- 		"start": {
-
- 			"longitude": 57.682954,
- 			"latitude": 12.016054
- 		},
- 		"stop": {
- 			"longitude": 57.698628,
- 			"latitude": 11.995251
- 		}
- 	}
- ]
+}
